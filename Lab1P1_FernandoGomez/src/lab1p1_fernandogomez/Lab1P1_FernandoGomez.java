@@ -87,7 +87,7 @@ public class Lab1P1_FernandoGomez {
                     }else if (opcion == 4){
                         System.out.println("Terminando el programa");
                         }else{
-                        System.out.println("La ocion ingresada no es valida. ");
+                        System.out.println("La opcion ingresada no es valida. ");
             }
         }
         
